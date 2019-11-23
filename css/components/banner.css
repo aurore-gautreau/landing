@@ -1,0 +1,50 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 50%), url(../../images/lecco.jpg);
+	color: #e3f6f5;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1, .banner-discover h1, .banner-spread h1, .banner-connect h1, .banner-breath h1 {
+	font-size: 50px;
+}
+
+.banner h2, .banner-discover h2, .banner-spread h2, .banner-connect h2, .banner-breath h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 60px;	
+}
+
+.banner-discover {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 50%), url(../../images/genova.jpg);
+	color: #e3f6f5;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner-spread {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 50%), url(../../images/paris.jpg);
+	color: #e3f6f5;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner-connect {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 50%), url(../../images/luzern.jpg);
+	color: #e3f6f5;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner-breath {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 50%), url(../../images/milano.jpg);
+	color: #e3f6f5;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}

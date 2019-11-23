@@ -1,0 +1,20 @@
+.btn-blue {
+	background-color: #357376;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #e3f6f5;
+	font-weight: bold;
+	font-family: 'Alata', sans-serif;
+}
+
+.btn-blue:hover {
+	background-color: rgb(227,222,229);
+	color: #357376;
+	transition: 0.5s;
+}
+
+.btn-card:hover {
+	background-color: #393e46;
+	color: rgb(227,222,229);
+	transition: 0.3s;	
+}
